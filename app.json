@@ -1,0 +1,7 @@
+{
+    "name": "Bypass",
+    "description": "An official Bypass Network proxy site, made to access the blocked web",
+    "repository": "",
+    "logo":"https://raw.githubusercontent.com/JacksonDevelopment/Tsunami/main/public/img/bypasslogo.png",
+    "keywords": ["javascript", "proxy", "bypass", "proxy-site", "unblocker", "bypass-network"]
+}
